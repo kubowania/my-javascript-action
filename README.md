@@ -1,3 +1,3 @@
 # my-javascript-action
 
-test
+test 1
